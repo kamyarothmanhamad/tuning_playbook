@@ -1,7 +1,9 @@
-# Deep Learning Tuning Playbook
 
-*This is not an officially supported Google product.*
 
+*This is just my revised version of 'Tuning Playbook'.*
+*aiming for more clarity especially for none native speakers*
+
+*original credits belongs to:*
 **Varun Godbole<sup>&dagger;</sup>, George E. Dahl<sup>&dagger;</sup>, Justin Gilmer<sup>&dagger;</sup>, Christopher J. Shallue<sup>&Dagger;</sup>, Zachary Nado<sup>&dagger;</sup>**
 
 
