@@ -1,6 +1,8 @@
 
 
-*This is just my revised version of 'Tuning Playbook'.*
+**This is just my revised version of 'Tuning Playbook'.**
+
+
 *aiming for more clarity especially for none native speakers*
 
 *original credits belongs to:*
