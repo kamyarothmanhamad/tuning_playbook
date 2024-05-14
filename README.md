@@ -6,8 +6,8 @@
 
 *aiming for more clarity especially for none native speakers*
 
-*This work is a derivative of the original 'Tuning Playbook' **Varun Godbole<sup>&dagger;</sup>, George E. Dahl<sup>&dagger;</sup>, Justin Gilmer<sup>&dagger;</sup>, Christopher J. Shallue<sup>&Dagger;</sup>, Zachary Nado<sup>&dagger;</sup>**. It is licensed under CC BY 4.0.*
-*original credits belongs to:*
+*This work is a derivative of the original 'Tuning Playbook' **Varun Godbole<sup>&dagger;</sup>, George E. Dahl<sup>&dagger;</sup>, Justin Gilmer<sup>&dagger;</sup>, Christopher J. Shallue<sup>&Dagger;</sup>, Zachary Nado<sup>&dagger;</sup>**. https://github.com/google-research/tuning_playbook It is licensed under CC BY 4.0.*
+
 
 
 
