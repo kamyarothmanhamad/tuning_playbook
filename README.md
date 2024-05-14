@@ -1,8 +1,10 @@
 
 
-**This is just my revised version of 'Tuning Playbook'. Rephrasing the contects and additional context for more clarity! Non-native English speakers and new comers considered**
+**Revised version of 'Tuning Playbook'. Rephrased the contects and additional context for more clarity! Non-native English speakers and new-comers considered**
 
-
+Rephrasing text for clarity
+Adding explanations and examples
+Tailoring the content to beginners and non-native English speakers
 
 
 *This work is a derivative of the original 'Tuning Playbook' **Varun Godbole<sup>&dagger;</sup>, George E. Dahl<sup>&dagger;</sup>, Justin Gilmer<sup>&dagger;</sup>, Christopher J. Shallue<sup>&Dagger;</sup>, Zachary Nado<sup>&dagger;</sup>**. https://github.com/google-research/tuning_playbook It is licensed under CC BY 4.0.*
@@ -49,17 +51,17 @@
 
 ## Who is this document for?
 
-This document is for engineers and researchers (both individuals and teams)
-interested in **maximizing the performance of deep learning models**. We assume
-basic knowledge of machine learning and deep learning concepts.
+Target Audience:
 
-Our emphasis is on the **process of hyperparameter tuning**. We touch on other
-aspects of deep learning training, such as pipeline implementation and
-optimization, but our treatment of those aspects is not intended to be complete.
+This playbook is designed for engineers and researchers, both individuals and teams, who want to get the most out of their deep learning models. We understand you might be new to deep learning, so we'll explain things clearly and provide additional context.
 
-We assume the machine learning problem is a supervised learning problem or
-something that looks a lot like one (e.g. self-supervised). That said, some of
-the prescriptions in this document may also apply to other types of problems.
+What We Cover:
+
+Our main focus is on hyperparameter tuning, which helps improve your model's performance. We'll also touch on other essential aspects of deep learning training, but we won't delve too deep into those areas.
+
+What We Assume:
+
+We assume you have a basic understanding of machine learning concepts. While we'll focus on supervised learning problems (where you have labeled data), some of the techniques can be applied to other types of problems as well.
 
 ## Why a tuning playbook?
 
