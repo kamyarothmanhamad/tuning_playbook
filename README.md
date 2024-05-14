@@ -1,10 +1,9 @@
 
 
-**This is just my revised version of 'Tuning Playbook'.**
+**This is just my revised version of 'Tuning Playbook'. Rephrasing the contects and additional context for more clarity! Non-native English speakers and new comers considered**
 
 
 
-*aiming for more clarity especially for none native speakers*
 
 *This work is a derivative of the original 'Tuning Playbook' **Varun Godbole<sup>&dagger;</sup>, George E. Dahl<sup>&dagger;</sup>, Justin Gilmer<sup>&dagger;</sup>, Christopher J. Shallue<sup>&Dagger;</sup>, Zachary Nado<sup>&dagger;</sup>**. https://github.com/google-research/tuning_playbook It is licensed under CC BY 4.0.*
 
