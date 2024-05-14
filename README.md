@@ -51,16 +51,13 @@ Tailoring the content to beginners and non-native English speakers
 
 ## Who is this document for?
 
-Target Audience:
-
+*Target Audience:*
 This playbook is designed for engineers and researchers, both individuals and teams, who want to get the most out of their deep learning models. We understand you might be new to deep learning, so we'll explain things clearly and provide additional context.
 
-What We Cover:
+*What We Cover:*
+Our main focus is on hyperparameter tuning, which helps improve your model's performance. We'll also touch on other essential aspects of deep learning training, such as pipeline implementation and optimization, but we won't delve too deep into those areas.
 
-Our main focus is on hyperparameter tuning, which helps improve your model's performance. We'll also touch on other essential aspects of deep learning training, but we won't delve too deep into those areas.
-
-What We Assume:
-
+*What We Assume:*
 We assume you have a basic understanding of machine learning concepts. While we'll focus on supervised learning problems (where you have labeled data), some of the techniques can be applied to other types of problems as well.
 
 ## Why a tuning playbook?
