@@ -120,7 +120,7 @@ Many of the decisions we make over the course of tuning can be made once at the
 beginning of a project and only occasionally revisited when circumstances
 change.
 
-Our guidance below makes the following assumptions:
+Our guidance below makes the following assumptions [edited] :
 
 -   Enough of the essential work of problem formulation, data cleaning, etc. has
     already been done that spending time on the model architecture and training
@@ -188,7 +188,7 @@ hand.*
         -   See
             [How should Adam's hyperparameters be tuned?](#how-should-adams-hyperparameters-be-tuned)
 
-### Choosing the batch size
+### Choosing the batch size [edited]
 
 ***Summary:*** *The batch size governs the training speed and shouldn't be used
 to directly tune the validation set performance. Often, the ideal batch size
